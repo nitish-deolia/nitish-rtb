@@ -1,2 +1,2 @@
-# bmi-calculator-app
-This app helps to calculate BMI for an individual.
+I have added all RTB mini applications in Navbar to showcase all of them in SPA.
+Thank you!
