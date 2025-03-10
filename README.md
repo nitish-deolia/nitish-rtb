@@ -1,5 +1,14 @@
 I have added all RTB mini applications in Navbar to showcase all of them in SPA.
 Thank you!
+
+To Run the project:
+
+1.Clone the Project
+2.move to project directory
+3.npm install
+4.npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
