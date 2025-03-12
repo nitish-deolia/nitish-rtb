@@ -5,7 +5,6 @@ const ImageCarousel = () => {
   const [images, setImages] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  // Fetch images on component mount
   useEffect(() => {
     const loadImages = async () => {
       const fetchedImages = await fetchImages();
